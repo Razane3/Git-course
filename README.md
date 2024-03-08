@@ -1,2 +1,2 @@
-# Git-course
+## Git-course
 elzero school course
